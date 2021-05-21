@@ -4,7 +4,7 @@
   "private": true,
   "main": "app.js",
   "scripts": {
-    "start": "node ./bin/start"
+    "start": "node --inspect ./bin/start"
   },
   "dependencies": {
     "@babel/cli": "^7.8.4",
